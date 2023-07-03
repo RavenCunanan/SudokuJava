@@ -1,4 +1,4 @@
-# SudokuJava
+# Sudoku Java
 A sudoku game made in Java
 Collumns and Rows go from 0-8
 Commands are : set, clear, solve, new
